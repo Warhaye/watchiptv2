@@ -5,12 +5,7 @@ http://54.36.175.151:5000/live/House2/House2/6578.ts
 http://54.36.175.151:5000/live/House2/House2/6577.ts
 #EXTINF:-1,UK: BBC3/CBBC HD
 http://54.36.175.151:5000/live/House2/House2/6576.ts
-#EXTINF:-1,UK: BBC Four
-http://54.36.175.151:5000/live/House2/House2/6575.ts
-#EXTINF:-1,UK: ITV Encore
-http://54.36.175.151:5000/live/House2/House2/6523.ts
-#EXTINF:-1,UK: BBC Wales
-http://54.36.175.151:5000/live/House2/House2/6579.ts
+
 #EXTINF:-1,UK: ITV 1 HD
 http://54.36.175.151:5000/live/House2/House2/1038.ts
 #EXTINF:-1,UK: ITV 2 HD
@@ -51,12 +46,7 @@ http://54.36.175.151:5000/live/House2/House2/6511.ts
 http://54.36.175.151:5000/live/House2/House2/6516.ts
 #EXTINF:-1,UK: ID
 http://54.36.175.151:5000/live/House2/House2/6524.ts
-#EXTINF:-1,UK: Bike
-http://54.36.175.151:5000/live/House2/House2/6525.ts
-#EXTINF:-1,UK: UK: HomeHealth+1
-http://54.36.175.151:5000/live/House2/House2/6527.ts
-#EXTINF:-1,UK: H2
-http://54.36.175.151:5000/live/House2/House2/6530.ts
+
 #EXTINF:-1,UK: Good Food +1
 http://54.36.175.151:5000/live/House2/House2/6531.ts
 #EXTINF:-1,UK: FOX NEWS
@@ -181,18 +171,7 @@ http://188.93.238.184:8000/live/snet/snet/8155.ts
 http://188.93.238.184:8000/live/snet/snet/11346.ts
 #EXTINF:-1,ITV 4 (Backup)
 http://188.93.238.184:8000/live/snet/snet/37342.ts
-#EXTINF:-1,Home
-http://188.93.238.184:8000/live/snet/snet/11338.ts
-#EXTINF:-1,Property Show
-http://188.93.238.184:8000/live/snet/snet/11753.ts
-#EXTINF:-1,My Channel
-http://188.93.238.184:8000/live/snet/snet/11735.ts
-#EXTINF:-1,Showcase
-http://188.93.238.184:8000/live/snet/snet/11855.ts
-#EXTINF:-1,VOX Africa
-http://188.93.238.184:8000/live/snet/snet/11793.ts
-#EXTINF:-1,ABN TV
-http://188.93.238.184:8000/live/snet/snet/11337.ts
+
 #EXTINF:-1,Food Network
 http://188.93.238.184:8000/live/snet/snet/11335.ts
 #EXTINF:-1,RTE 2 HD
@@ -281,34 +260,7 @@ http://188.93.238.184:8000/live/snet/snet/37427.ts
 http://188.93.238.184:8000/live/snet/snet/11268.ts
 #EXTINF:-1,MTV Base HD
 http://188.93.238.184:8000/live/snet/snet/29485.ts
-#EXTINF:-1,MTV Rocks HD
-http://188.93.238.184:8000/live/snet/snet/11271.ts
-#EXTINF:-1,MTV Classic HD
-http://188.93.238.184:8000/live/snet/snet/11264.ts
-#EXTINF:-1,VH1
-http://188.93.238.184:8000/live/snet/snet/36957.ts
-#EXTINF:-1,VH1 Classic
-http://188.93.238.184:8000/live/snet/snet/37401.ts
-#EXTINF:-1,Heart TV
-http://188.93.238.184:8000/live/snet/snet/11274.ts
-#EXTINF:-1,4 Music
-http://188.93.238.184:8000/live/snet/snet/37280.ts
-#EXTINF:-1,Capital TV
-http://188.93.238.184:8000/live/snet/snet/11742.ts
-#EXTINF:-1,Channel AKA
-http://188.93.238.184:8000/live/snet/snet/11282.ts
-#EXTINF:-1,Clubland TV
-http://188.93.238.184:8000/live/snet/snet/11736.ts
-#EXTINF:-1,M2O Music
-http://188.93.238.184:8000/live/snet/snet/37461.ts
-#EXTINF:-1,NOW 80s..
-http://188.93.238.184:8000/live/snet/snet/11752.ts
-#EXTINF:-1,Vintage TV
-http://188.93.238.184:8000/live/snet/snet/11283.ts
-#EXTINF:-1,Country Network
-http://188.93.238.184:8000/live/snet/snet/37292.ts
-#EXTINF:-1,Keep It Country
-http://188.93.238.184:8000/live/snet/snet/11861.ts
+
 #EXTINF:-1,UTV Ireland
 http://188.93.238.184:8000/live/snet/snet/11343.ts
 #EXTINF:-1,UK: 3E Ireland
