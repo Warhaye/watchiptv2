@@ -5,7 +5,6 @@ http://54.36.175.151:5000/live/House2/House2/6578.ts
 http://54.36.175.151:5000/live/House2/House2/6577.ts
 #EXTINF:-1,UK: BBC3/CBBC HD
 http://54.36.175.151:5000/live/House2/House2/6576.ts
-
 #EXTINF:-1,UK: ITV 1 HD
 http://54.36.175.151:5000/live/House2/House2/1038.ts
 #EXTINF:-1,UK: ITV 2 HD
@@ -46,7 +45,6 @@ http://54.36.175.151:5000/live/House2/House2/6511.ts
 http://54.36.175.151:5000/live/House2/House2/6516.ts
 #EXTINF:-1,UK: ID
 http://54.36.175.151:5000/live/House2/House2/6524.ts
-
 #EXTINF:-1,UK: Good Food +1
 http://54.36.175.151:5000/live/House2/House2/6531.ts
 #EXTINF:-1,UK: FOX NEWS
@@ -171,19 +169,6 @@ http://188.93.238.184:8000/live/snet/snet/8155.ts
 http://188.93.238.184:8000/live/snet/snet/11346.ts
 #EXTINF:-1,ITV 4 (Backup)
 http://188.93.238.184:8000/live/snet/snet/37342.ts
-
-#EXTINF:-1,Food Network
-http://188.93.238.184:8000/live/snet/snet/11335.ts
-#EXTINF:-1,RTE 2 HD
-http://188.93.238.184:8000/live/snet/snet/11334.ts
-#EXTINF:-1,TG4
-http://188.93.238.184:8000/live/snet/snet/11331.ts
-#EXTINF:-1,Ahlebait TV
-http://188.93.238.184:8000/live/snet/snet/11364.ts
-#EXTINF:-1,Ahlulbayt TV
-http://188.93.238.184:8000/live/snet/snet/11373.ts
-#EXTINF:-1,ATN Bangla UK
-http://188.93.238.184:8000/live/snet/snet/11363.ts
 #EXTINF:-1,BBC World News
 http://188.93.238.184:8000/live/snet/snet/11327.ts
 #EXTINF:-1,BEN TV
@@ -403,22 +388,3 @@ http://si-red.com:8080/live/abdullahceyhan/180818/12586.ts
 http://si-red.com:8080/live/abdullahceyhan/180818/12587.ts
 #EXTINF:-1,UK | ComedyCentral
 http://si-red.com:8080/live/abdullahceyhan/180818/12588.ts
-#EXTINF:-1,UK | Yesterday
-http://si-red.com:8080/live/abdullahceyhan/180818/12611.ts
-#EXTINF:-1,UK | Dmax.
-http://si-red.com:8080/live/abdullahceyhan/180818/12612.ts
-#EXTINF:-1,UK | NationalGeographic
-http://si-red.com:8080/live/abdullahceyhan/180818/12595.ts
-#EXTINF:-1,UK | Discovery Science HD
-http://si-red.com:8080/live/abdullahceyhan/180818/12593.ts
-#EXTINF:-1,UK | Discovery Turbo HD
-http://si-red.com:8080/live/abdullahceyhan/180818/12594.ts
-#EXTINF:-1,UK | DiscoveryChannelHD
-http://si-red.com:8080/live/abdullahceyhan/180818/12591.ts
-#EXTINF:-1,UK | DiscoveryShed
-http://si-red.com:8080/live/abdullahceyhan/180818/12592.ts
-#EXTINF:-1,UK | DisneyChannel
-http://si-red.com:8080/live/abdullahceyhan/180818/12590.ts
-#EXTINF:-1,UK | DisneyJunior
-http://si-red.com:8080/live/abdullahceyhan/180818/12589.ts
-
